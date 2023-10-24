@@ -10,6 +10,6 @@ I am a data science enthusiast and a graduate student passionate about harnessin
 
 This repository is organized into distinct folders, each corresponding to a specific project. Inside each project folder, you will find:
 
--> Project-specific code and Jupyter notebooks for data analysis and modeling.
--> Data files (if available) used in the project.
--> A README file with detailed project information and setup instructions.
+* Project-specific code and Jupyter notebooks for data analysis and modeling.
+* Data files (if available) used in the project.
+* A README file with detailed project information and setup instructions.
