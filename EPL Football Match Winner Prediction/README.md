@@ -37,7 +37,7 @@ To follow this project, please ensure you have the following installed locally:
 
 ### Data
 
-In the first part of this project (`scrapping.ipynb`), we scrape data from FBref to gather the necessary information for our predictions. If you'd like to skip the scraping step and work only on the predictive modeling part, you can download the pre-scraped dataset as `PLmatches.csv`.
+In the first part of this project (`scrapping.ipynb`), we scrape data from [FBref](https://fbref.com/en/comps/9/Premier-League-Stats) to gather the necessary information for our predictions. If you'd like to skip the scraping step and work only on the predictive modeling part, you can download the pre-scraped dataset as `PLmatches.csv`.
 
 ## Project Goals
 
